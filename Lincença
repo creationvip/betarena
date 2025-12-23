@@ -1,0 +1,11 @@
+
+---
+
+## ✅ Passo 8: Commit e Push Inicial
+
+```bash
+git add .
+git commit -m "feat: estrutura inicial do site de apostas em PHP"
+git remote add origin https://github.com/seu-usuario/betarena-php.git
+git branch -M main
+git push -u origin main
